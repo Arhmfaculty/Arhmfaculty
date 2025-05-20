@@ -42,10 +42,10 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ###  Current Learning Journey
 
-✅ HuggingFace Transformers & prompt engineering
-✅ SIEM basics & Splunk integration with honeypots
-✅ Bias metrics in AI (toxicity, fairness, sentiment)
-✅ Hands-on labs with Burp Suite, SQLi, XSS, and log forensics
+-✅ HuggingFace Transformers & prompt engineering
+-✅ SIEM basics & Splunk integration with honeypots
+-✅ Bias metrics in AI (toxicity, fairness, sentiment)
+-✅ Hands-on labs with Burp Suite, SQLi, XSS, and log forensics
 
 ---
 
