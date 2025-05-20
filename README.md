@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Maxwell
 
 I'm a dual-focused technologist with a passion for **machine learning research** and **offensive cybersecurity**. I’m currently building and contributing to projects in both areas — from LLM reproducibility and bias evaluation, to honeypot deployment, password cracking, and fraud detection.
 
