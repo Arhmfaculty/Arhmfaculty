@@ -6,7 +6,7 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ---
 
-### 🧠 Machine Learning & AI Interests
+###  Machine Learning & AI Interests
 
 -  Fairness & bias mitigation in large language models (LLMs)
 -  Mathematical reasoning using transformers
@@ -15,7 +15,7 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ---
 
-### 🛡️ Cybersecurity Focus Areas
+###  Cybersecurity Focus Areas
 
 -  Penetration testing (Web app, network, and auth bypass)
 -  Honeypots & threat simulation (Cowrie, log analysis)
@@ -24,7 +24,7 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ---
 
-### 🔨 Notable Projects
+###  Notable Projects
 
 ####  AI/LLM Projects
 - `llm-from-scratch` – Transformers built in pure PyTorch with educational annotations
