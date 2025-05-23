@@ -8,7 +8,8 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ###  Machine Learning & AI Interests
 
--  Fairness & bias mitigation in large language models (LLMs)
+-  Fine-tuning in large language models (LLMs)
+-  Building AI agents for good
 -  Mathematical reasoning using transformers
 -  Reproducible deep learning pipelines
 -  Building LLMs and optimizers from scratch in PyTorch
@@ -44,7 +45,7 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 - ✅ HuggingFace Transformers & prompt engineering
 - ✅ SIEM basics & Splunk integration with honeypots
-- ✅ Bias metrics in AI (toxicity, fairness, sentiment)
+- ✅Agentic AI
 - ✅ Hands-on labs with Burp Suite, SQLi, XSS, and log forensics
 
 ---
@@ -53,7 +54,7 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 - GitHub: [Arhmfaculty](https://github.com/Arhmfaculty)
 - LinkedIn: [Maxwell B. Antwi](https://www.linkedin.com/in/maxwell-antwi/)
-- Email: [maxwellantwibosiako@gmail.com]
+- Email: maxwellantwibosiako@gmail.com
 
 ---
 
