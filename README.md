@@ -10,8 +10,6 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 -  Fine-tuning in large language models (LLMs)
 -  Building AI agents for good
--  Mathematical reasoning using transformers
--  Reproducible deep learning pipelines
 -  Building LLMs and optimizers from scratch in PyTorch
 
 ---
