@@ -27,9 +27,9 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 ####  AI/LLM Projects
 - `llm-from-scratch` – Transformers built in pure PyTorch with educational annotations
-- `llm-fairness-evaluation` – Measuring demographic bias in LLM output responses
-- `llm-paper-reproduction` – Reproducing foundational LLM papers like BERT and GPT
-- `llm-math-reasoning` – Prompting LLMs for symbolic and arithmetic logic
+- `Reinforcement-fine-tuning-LLMs-with-grpo` – Fine tuning existing model for performance
+- `Code-Agents-using-smolagents` – Creating code agents for optimization
+- `llm-math-reasoning-using Supervised-Fine-Tuning` – Prompting LLMs for symbolic and arithmetic logic
 
 ####  Security Projects
 - `cowrie-honeypot-analysis` – Dockerized SSH honeypot for monitoring attacker behavior (log parsing & TTP extraction)
