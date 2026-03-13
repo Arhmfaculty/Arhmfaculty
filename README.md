@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Maxwell
 
-I'm a dual-focused technologist with a passion for **machine learning research** and **offensive cybersecurity**. I’m currently building and contributing to projects in both areas — from LLM reproducibility and bias evaluation, to honeypot deployment, password cracking, and fraud detection.
+I'm a multi-focused technologist with a passion for **machine learning research**, **Digital Forensics and Investigations** and **offensive cybersecurity**. I’m currently building and contributing to projects in these areas, from LLM reproducibility and bias evaluation, to honeypot deployment, password cracking, and fraud detection, malware analysis and investigations. 
 
-Whether I’m reverse engineering attacker behavior or debugging transformer architectures, my goal is to make AI and security systems more transparent, robust, and ethical.
+Whether I’m reverse engineering attacker behavior or debugging transformer architectures, my goal is to make AI and security systems more transparent and to grow into a security professional capable of handling both the technical and investigative sides of cybersecurity.
 
 ---
 
@@ -21,6 +21,14 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 -  Contactless Payment Security Authentication
 -  AI/ML for security: fraud detection, anomaly detection
 
+---
+### Digital Forensics and Incidence Response Focus
+
+-  Malware Analysis
+-  Memory Forensics
+-  Windows Forensics
+-  Mobile Forensics
+-  Thread hunting with AI triaging
 ---
 
 ###  Notable Projects
@@ -43,8 +51,9 @@ Whether I’m reverse engineering attacker behavior or debugging transformer arc
 
 - ✅ HuggingFace Transformers & prompt engineering
 - ✅ SIEM basics & Splunk integration with honeypots
-- ✅Agentic AI
+- ✅ Agentic AI
 - ✅ Hands-on labs with Burp Suite, SQLi, XSS, and log forensics
+- ✅ AI assisted threat detection
 
 ---
 
